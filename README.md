@@ -12,15 +12,12 @@ This page contains the course links and class files shared during Scott Hay's Se
 
 Download these files before the finance class. Start with the lab guide and use the workbook, notes, ledger, and fallback output together.
 
-1. [Finance class slide deck (PDF)](finance-class/MassMutual_Finance_2026-09-10.pdf)
-2. [Finance class slide deck (PPTX)](finance-class/MassMutual_Finance_2026-09-10.pptx)
-3. [Verified Finance Review Pack lab guide (PDF)](finance-class/Verified_Finance_Review_Pack_Lab.pdf)
-4. [Northstar Life monthly performance workbook (XLSX)](finance-class/Northstar_Life_Monthly_Performance.xlsx)
-5. [Northstar monthly review notes (DOCX)](finance-class/Northstar_Monthly_Review_Notes.docx)
-6. [Finance claim ledger template (XLSX)](finance-class/Finance_Claim_Ledger.xlsx)
-7. [Prepared fallback outputs (PDF)](finance-class/Northstar_Finance_Fallback_Outputs.pdf)
-8. [Finance verification checklist (PDF)](finance-class/Finance_Verification_Checklist.pdf)
-9. [MassMutual Copilot prompt packet (PDF)](finance-class/MassMutual_Copilot_Prompt_Packet.pdf)
+1. [Verified Finance Review Pack lab guide (PDF)](finance-class/Verified_Finance_Review_Pack_Lab.pdf)
+2. [Northstar Life monthly performance workbook (XLSX)](finance-class/Northstar_Life_Monthly_Performance.xlsx)
+3. [Northstar monthly review notes (DOCX)](finance-class/Northstar_Monthly_Review_Notes.docx)
+4. [Finance claim ledger template (XLSX)](finance-class/Finance_Claim_Ledger.xlsx)
+5. [Prepared fallback outputs (PDF)](finance-class/Northstar_Finance_Fallback_Outputs.pdf)
+6. [Finance verification checklist (PDF)](finance-class/Finance_Verification_Checklist.pdf)
 
 If GitHub opens a preview instead of downloading a file, select **Download raw file** in the upper-right corner.
 
