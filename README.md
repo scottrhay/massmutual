@@ -23,14 +23,14 @@ Download these files before the finance class. The session is an instructor-led 
 
 1. [MS-4004 Finance learner prompt packet (Markdown)](finance-class/MS-4004_Finance_Prompt_Packet.md)
 2. [MS-4004 Finance learner prompt packet (PDF)](finance-class/MS-4004_Finance_Prompt_Packet.pdf)
-3. [Northstar Life monthly performance workbook (XLSX)](finance-class/Northstar_Life_Monthly_Performance.xlsx)
+3. [Northstar Life finance starter workbook (XLSX)](finance-class/Northstar_Life_Finance_Starter.xlsx)
 4. [Northstar monthly review notes (DOCX)](finance-class/Northstar_Monthly_Review_Notes.docx)
 5. [Northstar claims committee thread (PDF)](finance-class/Northstar_Claims_Committee_Thread.pdf)
 6. [Finance claim ledger template (XLSX)](finance-class/Finance_Claim_Ledger.xlsx)
 7. [Finance verification checklist (PDF)](finance-class/Finance_Verification_Checklist.pdf)
 8. [Prepared fallback outputs (PDF)](finance-class/Northstar_Finance_Fallback_Outputs.pdf)
 
-The existing lab guide and custom-skill files remain available as additional references, but they are not required for the September 10 guided session.
+Before making edits, save a personal working copy to OneDrive or SharePoint so supported changes and versions can be captured. The existing lab guide and custom-skill files remain available as additional references, but they are not required for the September 10 guided session.
 
 Keep `Northstar_Monthly_Review_Notes.docx` closed until the instructor tells you to open it; first freeze the cause-free variance ranking from the workbook.
 
