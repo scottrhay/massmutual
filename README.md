@@ -42,6 +42,8 @@ If GitHub opens a preview instead of downloading a file, select **Download raw f
 ### MS-4004: Empower your workforce with Microsoft 365 Copilot Use Cases
 
 - [Course overview and learning path](https://learn.microsoft.com/en-us/training/courses/ms-4004)
+- [Official MicrosoftLearning MS-4004 GitHub repository](https://github.com/MicrosoftLearning/MS-4004-Empower-workforce-copilot-use-cases/)
+- [Finance use-case training module](https://learn.microsoft.com/en-us/training/modules/empower-workforce-copilot-finance/)
 - [Hands-on labs and supporting files](https://microsoftlearning.github.io/MS-4004-Empower-workforce-copilot-use-cases/)
 
 ### MS-4018: Draft, analyze, and present with Microsoft 365 Copilot
