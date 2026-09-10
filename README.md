@@ -4,23 +4,33 @@ This page contains the course links and class files shared during Scott Hay's Se
 
 > **Use only approved company data and tenant-approved Copilot surfaces. Verify consequential claims before sharing.**
 
-## Class slide deck
+## Class slide decks
 
 - [Download Copilot Business Foundations slide deck (PPTX)](slides/Copilot_Business_Foundations_2026-09-09.pptx)
+- [Copilot Business Foundations slide deck (PDF)](slides/Copilot_Business_Foundations_2026-09-09.pdf)
+- [MS-4004 Finance use-case deck (PDF)](slides/MassMutual_Finance_2026-09-10.pdf)
+
+## AI Champions class files — September 9
+
+- [Learner prompt packet (Markdown)](ai-champions-class/Copilot_Business_Foundations_Prompt_Packet.md)
+- [Learner prompt packet (PDF)](ai-champions-class/Copilot_Business_Foundations_Prompt_Packet.pdf)
+- [Boreal inquiry thread (DOCX)](ai-champions-class/boreal_inquiry_thread.docx)
+- [Messy meeting notes (DOCX)](ai-champions-class/messy_meeting_notes.docx)
 
 ## Finance class files
 
-Download these files before the finance class. Start with the lab guide and use the workbook, custom skill, notes, ledger, and fallback output together.
+Download these files before the finance class. The session is an instructor-led walkthrough with guided follow-alongs; there is no separate independent lab.
 
-1. [Verified Finance Review Pack lab guide (PDF)](finance-class/Verified_Finance_Review_Pack_Lab.pdf)
-2. [Northstar Life advanced finance analysis workbook (XLSX)](finance-class/Northstar_Life_Monthly_Performance.xlsx)
-3. [Northstar monthly review notes (DOCX)](finance-class/Northstar_Monthly_Review_Notes.docx)
-4. [Finance claim ledger template (XLSX)](finance-class/Finance_Claim_Ledger.xlsx)
-5. [Prepared fallback outputs (PDF)](finance-class/Northstar_Finance_Fallback_Outputs.pdf)
-6. [Finance verification checklist (PDF)](finance-class/Finance_Verification_Checklist.pdf)
-7. [Northstar finance-review custom skill (ZIP)](finance-class/Northstar_Finance_Review_Skill.zip)
+1. [MS-4004 Finance learner prompt packet (Markdown)](finance-class/MS-4004_Finance_Prompt_Packet.md)
+2. [MS-4004 Finance learner prompt packet (PDF)](finance-class/MS-4004_Finance_Prompt_Packet.pdf)
+3. [Northstar Life monthly performance workbook (XLSX)](finance-class/Northstar_Life_Monthly_Performance.xlsx)
+4. [Northstar monthly review notes (DOCX)](finance-class/Northstar_Monthly_Review_Notes.docx)
+5. [Northstar claims committee thread (PDF)](finance-class/Northstar_Claims_Committee_Thread.pdf)
+6. [Finance claim ledger template (XLSX)](finance-class/Finance_Claim_Ledger.xlsx)
+7. [Finance verification checklist (PDF)](finance-class/Finance_Verification_Checklist.pdf)
+8. [Prepared fallback outputs (PDF)](finance-class/Northstar_Finance_Fallback_Outputs.pdf)
 
-For the custom-skill exercise, unzip the package, then in Copilot in Excel open **Settings > Manage skills > Custom skills** and copy the `northstar-finance-review` folder into the skills folder. Refresh, invoke `@northstar-finance-review`, and verify the resulting `SkillReview` sheet. If Custom skills is unavailable in your tenant, paste the [SKILL.md instructions](finance-class/skills/northstar-finance-review/SKILL.md), followed by: `Run the complete review on this workbook and create the SkillReview sheet. Include every required section, and do not present a causal explanation as fact.`
+The existing lab guide and custom-skill files remain available as additional references, but they are not required for the September 10 guided session.
 
 Keep `Northstar_Monthly_Review_Notes.docx` closed until the instructor tells you to open it; first freeze the cause-free variance ranking from the workbook.
 
