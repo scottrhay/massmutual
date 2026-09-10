@@ -8,7 +8,7 @@ Use these prompts with the instructor. Use only the named synthetic course files
 
 **Prompt | COPY/PASTE**
 
-> Using only Northstar_Life_Finance_Starter.xlsx, audit the source tables before analysis. Identify duplicates, blanks, inconsistent labels, missing ownership, and fields that cannot yet be reconciled. Do not correct anything. Return an issue log with the sheet, table, row or cell, observed problem, and recommended next check.
+> Using only Northstar_Life_Finance_Starter.xlsx, audit the source tables before analysis. Log only true source-data defects: duplicate or broken identifiers, missing required source values, and inconsistent labels. Treat green learner-output cells, blank templates or canvases, and existing DataQualityFlag warnings as intentional design or evidence limitations, not defects. Do not correct anything. Return IssueLog rows with the sheet, table, row or cell, observed problem, and recommended next check.
 
 ## Slide 9 — Compare two finance sources safely
 
@@ -28,7 +28,7 @@ Use these prompts with the instructor. Use only the named synthetic course files
 
 **Then run 2 | COPY/PASTE**
 
-> Populate IssueLog with duplicates, blanks, inconsistent labels, and missing ownership. Cite the exact sheet and cell or row. Do not correct anything yet.
+> Populate IssueLog with only true source-data defects: duplicate or broken identifiers, missing required source values, and inconsistent labels. Exclude green learner-output cells, blank templates or canvases, and DataQualityFlag warnings. Cite the exact sheet and cell or row. Do not correct anything yet.
 
 ## Slide 13 — Clean only verified defects
 
