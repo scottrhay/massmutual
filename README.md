@@ -13,7 +13,7 @@ This page contains the course links and class files shared during Scott Hay's Se
 Download these files before the finance class. Start with the lab guide and use the workbook, notes, ledger, and fallback output together.
 
 1. [Verified Finance Review Pack lab guide (PDF)](finance-class/Verified_Finance_Review_Pack_Lab.pdf)
-2. [Northstar Life monthly performance workbook (XLSX)](finance-class/Northstar_Life_Monthly_Performance.xlsx)
+2. [Northstar Life advanced finance analysis workbook (XLSX)](finance-class/Northstar_Life_Monthly_Performance.xlsx)
 3. [Northstar monthly review notes (DOCX)](finance-class/Northstar_Monthly_Review_Notes.docx)
 4. [Finance claim ledger template (XLSX)](finance-class/Finance_Claim_Ledger.xlsx)
 5. [Prepared fallback outputs (PDF)](finance-class/Northstar_Finance_Fallback_Outputs.pdf)

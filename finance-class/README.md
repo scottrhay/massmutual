@@ -5,7 +5,7 @@ Download all files in this folder before class.
 ## Required
 
 - `Verified_Finance_Review_Pack_Lab.pdf`
-- `Northstar_Life_Monthly_Performance.xlsx`
+- `Northstar_Life_Monthly_Performance.xlsx` — advanced synthetic workbook with detailed schedules, reconciliation controls, scenarios, and challenge prompts
 - `Northstar_Monthly_Review_Notes.docx`
 - `Finance_Claim_Ledger.xlsx`
 - `Northstar_Finance_Fallback_Outputs.pdf`
