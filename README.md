@@ -10,7 +10,7 @@ This page contains the course links and class files shared during Scott Hay's Se
 
 ## Finance class files
 
-Download these files before the finance class. Start with the lab guide and use the workbook, notes, ledger, and fallback output together.
+Download these files before the finance class. Start with the lab guide and use the workbook, custom skill, notes, ledger, and fallback output together.
 
 1. [Verified Finance Review Pack lab guide (PDF)](finance-class/Verified_Finance_Review_Pack_Lab.pdf)
 2. [Northstar Life advanced finance analysis workbook (XLSX)](finance-class/Northstar_Life_Monthly_Performance.xlsx)
@@ -18,6 +18,11 @@ Download these files before the finance class. Start with the lab guide and use 
 4. [Finance claim ledger template (XLSX)](finance-class/Finance_Claim_Ledger.xlsx)
 5. [Prepared fallback outputs (PDF)](finance-class/Northstar_Finance_Fallback_Outputs.pdf)
 6. [Finance verification checklist (PDF)](finance-class/Finance_Verification_Checklist.pdf)
+7. [Northstar finance-review custom skill (ZIP)](finance-class/Northstar_Finance_Review_Skill.zip)
+
+For the custom-skill exercise, unzip the package, then in Copilot in Excel open **Settings > Manage skills > Custom skills** and copy the `northstar-finance-review` folder into the skills folder. Refresh, invoke `@northstar-finance-review`, and verify the resulting `SkillReview` sheet. If Custom skills is unavailable in your tenant, paste the [SKILL.md instructions](finance-class/skills/northstar-finance-review/SKILL.md), followed by: `Run the complete review on this workbook and create the SkillReview sheet. Include every required section, and do not present a causal explanation as fact.`
+
+Keep `Northstar_Monthly_Review_Notes.docx` closed until the instructor tells you to open it; first freeze the cause-free variance ranking from the workbook.
 
 If GitHub opens a preview instead of downloading a file, select **Download raw file** in the upper-right corner.
 
@@ -62,6 +67,7 @@ If GitHub opens a preview instead of downloading a file, select **Download raw f
 ## Current Copilot feature guidance
 
 - [Copilot in Excel skills](https://support.microsoft.com/en-us/excel/copilot/copilot-in-excel-skills)
+- [Copilot in Excel personalization](https://support.microsoft.com/en-us/excel/copilot/copilot-in-excel-personalization)
 - [Microsoft-provided Excel skills](https://support.microsoft.com/en-us/excel/copilot/copilot-in-excel-microsoft-skills)
 - [Researcher in Microsoft 365 Copilot](https://support.microsoft.com/en-us/microsoft-365-copilot/get-started-with-researcher-in-microsoft-365-copilot)
 - [Analyst in Microsoft 365 Copilot](https://support.microsoft.com/en-us/microsoft-365-copilot/get-started-with-analyst-in-microsoft-365-copilot)
