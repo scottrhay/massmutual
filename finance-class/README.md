@@ -11,10 +11,13 @@ Download all files in this folder before class.
 - `Finance_Claim_Ledger.xlsx`
 - `Northstar_Finance_Fallback_Outputs.pdf`
 - `Finance_Verification_Checklist.pdf`
+- `Northstar_Finance_Review_Skill.zip`
 
 ## Session format
 
-This is a three-hour, instructor-led MS-4004 Finance use-case walkthrough with guided follow-alongs. There is no separate independent learner lab. Before making edits, save a personal working copy to OneDrive or SharePoint so supported changes and versions can be captured. The older lab guide and custom-skill package remain in this folder only as additional references.
+This is a three-hour, instructor-led MS-4004 Finance use-case walkthrough with guided follow-alongs. There is no separate independent learner lab. Before making edits, save a personal working copy to OneDrive or SharePoint so supported changes and versions can be captured.
+
+For the custom-skills follow-along, extract `Northstar_Finance_Review_Skill.zip`. Add the contained `northstar-finance-review` folder to the OneDrive skills folder created through **Excel Copilot → Settings → Manage skills → Custom skills**, then select **Refresh**. If Custom skills is unavailable, open `northstar-finance-review/SKILL.md` and use its instructions as the guided fallback.
 
 Keep `Northstar_Monthly_Review_Notes.docx` closed until the instructor tells you to open it; first freeze the cause-free variance ranking from the workbook.
 

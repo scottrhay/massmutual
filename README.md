@@ -29,8 +29,9 @@ Download these files before the finance class. The session is an instructor-led 
 6. [Finance claim ledger template (XLSX)](finance-class/Finance_Claim_Ledger.xlsx)
 7. [Finance verification checklist (PDF)](finance-class/Finance_Verification_Checklist.pdf)
 8. [Prepared fallback outputs (PDF)](finance-class/Northstar_Finance_Fallback_Outputs.pdf)
+9. [Northstar finance-review custom skill (ZIP)](finance-class/Northstar_Finance_Review_Skill.zip)
 
-Before making edits, save a personal working copy to OneDrive or SharePoint so supported changes and versions can be captured. The existing lab guide and custom-skill files remain available as additional references, but they are not required for the September 10 guided session.
+Before making edits, save a personal working copy to OneDrive or SharePoint so supported changes and versions can be captured. Extract `Northstar_Finance_Review_Skill.zip` before the custom-skills follow-along; the required `SKILL.md` is inside the `northstar-finance-review` folder. The existing lab guide remains an additional reference and is not required for the September 10 guided session.
 
 Keep `Northstar_Monthly_Review_Notes.docx` closed until the instructor tells you to open it; first freeze the cause-free variance ranking from the workbook.
 

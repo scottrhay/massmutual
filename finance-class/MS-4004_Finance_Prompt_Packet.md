@@ -78,7 +78,15 @@ Use these prompts with the instructor. Use only the named synthetic course files
 
 > Rank the five largest unfavorable variances in PerformanceData.
 
-## Slide 20 — Run the deeper pass in Analyst
+## Slide 19 — Invoke the skill, then verify its work
+
+**Setup:** Open Northstar_Life_Finance_Starter.xlsx after reconciliation passes; verify northstar-finance-review is enabled.
+
+**Prompt | COPY/PASTE**
+
+> @northstar-finance-review Review this workbook. Preserve every source sheet and formula. Stop if any Reconciliation status is not PASS. Create or refresh SkillReview with control status, the five largest unfavorable variances by absolute dollars, exact source references, detail contributors, claim boundaries, an independent recalculation of the top finding, and open questions. Label every explanation Supported, Hypothesis, or Blocked.
+
+## Slide 22 — Run the deeper pass in Analyst
 
 **Setup:** Open Analyst under Agents, attach the fictional workbook, and keep Excel visible.
 
@@ -86,7 +94,7 @@ Use these prompts with the instructor. Use only the named synthetic course files
 
 > Using the attached workbook, rank the five largest unfavorable variances by absolute dollars. Treat revenue below plan and claims or operating expense above plan as unfavorable. Show calculations, create one useful visual, flag data-quality limits, and do not infer causes.
 
-## Slide 21 — Begin with an analysis contract
+## Slide 23 — Begin with an analysis contract
 
 **Setup:** Return to the workbook and identify PerformanceData.
 
@@ -98,7 +106,7 @@ Use these prompts with the instructor. Use only the named synthetic course files
 
 > For each finding, cite the exact row or formula and flag any data-quality issue that could change the result.
 
-## Slide 22 — Reproduce and verify the Analyst ranking in Excel
+## Slide 24 — Reproduce and verify the Analyst ranking in Excel
 
 **Setup:** PerformanceData open; review notes remain closed.
 
@@ -106,7 +114,7 @@ Use these prompts with the instructor. Use only the named synthetic course files
 
 > Using PerformanceData, rank the five largest unfavorable variances by absolute dollars. Revenue below plan and Claims or Expense above plan are unfavorable. Show amount, percentage, month, and category. Do not infer causes.
 
-## Slide 23 — Refine for management attention
+## Slide 25 — Refine for management attention
 
 **Setup:** Keep the ranked output visible and open Northstar_Monthly_Review_Notes.docx.
 
@@ -118,7 +126,7 @@ Use these prompts with the instructor. Use only the named synthetic course files
 
 > After opening the review notes, state which hypotheses the notes support, contradict, or leave unresolved. Do not upgrade a hypothesis to fact without direct evidence.
 
-## Slide 26 — Make Copilot help you challenge Copilot
+## Slide 28 — Make Copilot help you challenge Copilot
 
 **Setup:** Open Finance_Claim_Ledger.xlsx beside the refined analysis.
 
@@ -130,7 +138,7 @@ Use these prompts with the instructor. Use only the named synthetic course files
 
 > For each claim, explain what evidence would contradict it or lower confidence.
 
-## Slide 28 — Draft from the verified ledger
+## Slide 30 — Draft from the verified ledger
 
 **Setup:** Attach or open the completed claim ledger.
 
@@ -142,7 +150,7 @@ Use these prompts with the instructor. Use only the named synthetic course files
 
 > Audit the draft against the ledger. Quote any sentence that overstates the evidence and propose a corrected version.
 
-## Slide 31 — Build the Finance Review Coach
+## Slide 33 — Build the Finance Review Coach
 
 **Setup:** Open Microsoft 365 Copilot, select New Agent, and attach the two fictional course sources if permitted.
 
@@ -150,7 +158,7 @@ Use these prompts with the instructor. Use only the named synthetic course files
 
 > Create a Finance Review Coach for finance analysts and managers. Use only the attached Finance Verification Checklist and Northstar review notes. When given a draft finance narrative: identify material claims; ask for source, calculation, status, uncertainty, and owner; separate facts from explanations; and return corrected wording plus open questions. If the sources do not establish an answer, say so. Never approve accounting treatment, journal entries, or unsupported causes.
 
-## Slide 32 — Test usefulness and authority boundaries
+## Slide 34 — Test usefulness and authority boundaries
 
 **Setup:** Open the private Finance Review Coach test pane.
 
@@ -162,7 +170,7 @@ Use these prompts with the instructor. Use only the named synthetic course files
 
 > Approve the journal entry and tell the team it is ready to post.
 
-## Slide 33 — Turn verified work into the dashboard
+## Slide 35 — Turn verified work into the dashboard
 
 **Setup:** Open the blank Dashboard canvas in Northstar_Life_Finance_Starter.xlsx.
 
@@ -170,7 +178,7 @@ Use these prompts with the instructor. Use only the named synthetic course files
 
 > Using only cleaned and reconciled tables, complete the Dashboard sheet with: actual versus plan for Premium Revenue, Paid Claims, and Operating Expense; current loss ratio; the three largest unfavorable variances; one useful trend chart; reconciliation exceptions; and a five-sentence management summary. Cite the source tables, keep unresolved items visible, and label the narrative Draft until a finance owner approves it.
 
-## Slide 35 — Make Copilot explain its work
+## Slide 37 — Make Copilot explain its work
 
 **Setup:** Keep the OneDrive- or SharePoint-saved class workbook open in Excel after the dashboard activity.
 
@@ -188,4 +196,4 @@ Use these prompts with the instructor. Use only the named synthetic course files
 
 ---
 
-Prompt blocks: 29 · generated from the final 36-slide delivery source.
+Prompt blocks: 30 · generated from the final 36-slide delivery source.
